@@ -3,4 +3,3 @@
 |Проект|Описание|Стек|
 |-----------|-----------|----------|
 |[Прогноз оттока клиентов](https://github.com/ekaterina-yogakate/Projects/blob/main/ТелеДом/Teledom.ipynb)|Обучение модели для предсказания оттока клиентов оператора связи «ТелеДом»|numpy, pandas, seaborn, matplotlib, catboost, sklearn, lightgbm|
-|some text|more and longer text||
