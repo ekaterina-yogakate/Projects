@@ -1,3 +1,6 @@
 # Projects
 Репозиторий выполненных проектов по аналитике, ML и DS.
-|Прогноз оттока клиентов компании ТелеДом|
+|Header column 1|Header column 2|
+|-----------|-----------|
+|some text|more text|
+|some text|more and longer text|
